@@ -1,22 +1,22 @@
 # daa.github.io
 ## Portfolio
 
-### Hello, I'm [Your Name] 👋
+### Hello, I'm [SHREEDHAR HEGADE ] 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
 - **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
+
 
 ## 🚀 Skills
-- C++, Python, JavaScript
+-  C, C++, Python
 - Data Structures and Algorithms
-- Web Development (React.js, Node.js)
+
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [GitHub](https://github.com/your-github-01fe23bcs137)
+
 
 ## Portfolio Topic
 
@@ -24,17 +24,17 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd></dd>
 <dt>Name</dt>
-<dd>Your Name</dd>
+<dd>shreedhar hegade</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
+<dd>01fe23bcs137</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>prakash hegde</dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
+<dd>kle tech university</dd>
 <dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
+<dd></dd>
 </dl>
 
 <br> 
